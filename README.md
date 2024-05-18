@@ -1,31 +1,36 @@
  
 
+> Play game at https://arcade.makecode.com/S69678-45802-78009-84206
 
-> Open this page at [https://cncovingtongames.github.io/dojo-demo-snack-grab-2/](https://cncovingtongames.github.io/dojo-demo-snack-grab-2/)
+> Open tutorial at https://arcade.makecode.com/#tutorial:S69678-45802-78009-84206
 
-## Use as Extension
+# Create a Character
 
-This repository can be added as an **extension** in MakeCode.
+## Introduction @unplugged
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/cncovingtongames/dojo-demo-snack-grab-2** and import
+Let us make a game where our character collects snacks and grows larger!
 
-## Edit this project ![Build status badge](https://github.com/cncovingtongames/dojo-demo-snack-grab-2/workflows/MakeCode/badge.svg)
+![Gameplay animation](https://raw.githubusercontent.com/cncovingtongames/dojo-demo-snack-grab/master/demoImages/Gameplay3.gif)
 
-To edit this repository in MakeCode.
+## Step One
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/cncovingtongames/dojo-demo-snack-grab-2** and click import
+Use the ``||sprites:sprite||`` block to add a background image.
 
-## Blocks preview
+```blocks
+// @highlight
+sprites.create()
+```
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
+## Step Two
 
-![A rendered view of the blocks](https://github.com/cncovingtongames/dojo-demo-snack-grab-2/raw/master/.github/makecode/blocks.png)
+Add in a character sprite
+
+## Step Three
+
+Make it so the
+
+## Step Four
+
 
 #### Metadata (used for search, rendering)
 
